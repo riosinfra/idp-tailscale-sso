@@ -9,11 +9,11 @@ directory can join the tailnet and access policy can be driven by
 group membership rather than individual device rules.
  
 ## Integrations to be documented
-- [Google Workspace](google-workspace/) — personal Google account or Workspace
+- [Personal Microsoft](microsoft-personal/) — personal Microsoft account
 - [Okta](okta/) — Okta developer account (free)
  
 ## Key concepts covered
-- OIDC vs SAML — what the difference is and when each is used
+
 - How Tailscale uses identity provider groups to assign tags
 - Writing ACL rules that respond to group membership
 - What happens when a user is removed from the IdP
